@@ -27,7 +27,7 @@ Each event below includes:
 
 ### 305 SummerCodex Edition Jul 2026 — Session A & Session B
 
-[📄 View Agenda](https://github.com/CAHSIATFIU/hackathons/blob/main/2026-305summercodexjul)
+[📄 View Agenda](https://github.com/CAHSIATFIU/hackathons/blob/main/2026-305summercodexjul.md)
 
 [🌐 Event Website - 305summercodex.vercel.app ](http://305summercodex.vercel.app/)
 
