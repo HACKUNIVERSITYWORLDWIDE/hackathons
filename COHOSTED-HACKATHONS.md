@@ -25,6 +25,24 @@ Each event below includes:
 
 ## 2026
 
+### 305 HackFiesta Miami Edition Aug 2026 — Session A & Session B
+
+[📄 View Agenda](https://github.com/GOOGLEDEVELOPERGROUPATFIU/event-agendas/blob/main/2026-305hackfiestamiamiaug.md)
+
+[🌐 Event Website - 305hackfiestamiami.vercel.app ](http://305hackfiestamiami.vercel.app/)
+
+---
+
+### 305 HackShells Edition Sep 2026 — Session A & Session B
+
+[📄 View Agenda - coming soon ]
+
+[🌐 Event Website - 305Hackshells.vercel.app ](http://305Hackshells.vercel.app/)
+
+---
+
+## Past event 2026
+
 ### 305 SummerCodex Edition Jul 2026 — Session A & Session B
 
 [📄 View Agenda](https://github.com/CAHSIATFIU/hackathons/blob/main/2026-305summercodexjul.md)
