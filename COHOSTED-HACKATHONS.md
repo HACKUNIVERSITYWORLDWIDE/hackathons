@@ -45,7 +45,7 @@ Each event below includes:
 
 [📄 View Agenda](https://github.com/COLORSTACKATFIU/event-agendas/blob/main/2026-305codefestdec.md)
 
-[🌐 Event Website - codecrunchglobal.vercel.app/hackathons/colorstackatfiu-hackathons/codefest-series ](https://codecrunchglobal.vercel.app/hackathons/colorstackatfiu-hackathons/codefest-series)
+[🌐 Event Website - codefesthack.vercel.app ](https://codefesthack.vercel.app/)
 
 ---
 
@@ -143,7 +143,7 @@ Each event below includes:
 
 [📄 View Agenda](https://github.com/COLORSTACKATFIU/event-agendas/blob/main/2027-305codefestdec.md)
 
-[🌐 Event Website - codecrunchglobal.vercel.app/hackathons/colorstackatfiu-hackathons/codefest-series ](https://codecrunchglobal.vercel.app/hackathons/colorstackatfiu-hackathons/codefest-series)
+[🌐 Event Website - codefesthack.vercel.app ](https://codefesthack.vercel.app/)
 
 ---
 
